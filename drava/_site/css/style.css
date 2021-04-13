@@ -22,7 +22,7 @@ a {
   transition-duration: 0.3s;
 }
 a:hover {
-  color: #999;
+  color: #22223B;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -35,15 +35,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 hr {
-  border-color: #eee;
+  border-color: #f2e9e4;
 }
 
 .right-border {
-  border-right: 1px solid #cfcfcf;
+  border-right: 1px solid #f2e9e4;
 }
 
 .left-border {
-  border-left: 1px solid #cfcfcf;
+  border-left: 1px solid #f2e9e4;
 }
 
 .spacing {
@@ -95,7 +95,7 @@ ul.shortcode-list i {
   font-size: 2.57143rem;
   width: 2.57143rem;
   height: 2.57143rem;
-  color: #fff;
+  color:#f2e9e4;
   display: inline-block;
   padding: 15px;
   -moz-border-radius: 50%;
@@ -211,7 +211,7 @@ ul.shortcode-list i {
 }
 .top-bar .title-area .name h1 a {
   font-size: 2.57143rem;
-  color: #333;
+  color: #22223B;
 }
 
 .contain-to-grid {
@@ -240,8 +240,8 @@ ul.shortcode-list i {
   background: transparent;
 }
 .contain-to-grid.shadowless .top-bar-section li:not(.has-form) a:not(.button):hover, .contain-to-grid.shadowless .top-bar-section li.active:not(.has-form) a:not(.button) {
-  background: #f9f9f9;
-  color: #888;
+  background: #f2e9e4;
+  color: #22223B;
 }
 .contain-to-grid.shadowless .top-bar-section li.active:not(.has-form) a:not(.button):hover {
   background: #f2f2f2;
@@ -395,7 +395,7 @@ ul.shortcode-list i {
   background: transparent;
 }
 .contain-to-grid.transparent .top-bar-section ul li.has-dropdown .dropdown li a {
-  color: #fff;
+  color: #f2e9e4;
 }
 .contain-to-grid.transparent .top-bar-section .has-dropdown > a:after {
   border-top-color: #333;
@@ -540,8 +540,9 @@ form input.error, form textarea.error {
 
 /*Footer */
 #footer {
-  background: #222;
-  color: #999;
+  background: #c9ada7
+  ;
+  color: #22223B;
 }
 #footer h1 {
   margin-bottom: 25px;
@@ -855,7 +856,7 @@ body.screenshot {
 
 .modBlogPost {
   margin-bottom: 40px;
-  background: #fff;
+  background: #f2e9e4;
 }
 .modBlogPost .content {
   padding: 30px 20px;
@@ -2390,11 +2391,11 @@ body.screenshot {
   opacity: 0;
 }
 .modGallery ul.gallery li a h3 {
-  color: #fff;
+  color: #f2e9e4;
   margin-bottom: 10px;
 }
 .modGallery ul.gallery li a p {
-  color: #fff;
+  color: #f2e9e4;
   font-size: 0.875rem;
 }
 .modGallery ul.gallery li a:hover .overlay {
@@ -2431,8 +2432,8 @@ body.screenshot {
   font-size: 3.42857rem;
   width: 3.42857rem;
   height: 3.42857rem;
-  color: #333;
-  border: 3px solid #eee;
+  color: #22223B;
+  border: 3px solid #f2e9e4;
   display: inline-block;
   padding: 30px;
   -moz-border-radius: 50%;
@@ -2478,7 +2479,7 @@ body {
   margin-bottom: 0.5rem;
 }
 .modMasonryGallery .gallery-nav li a {
-  color: #999;
+  color: #22223B;
 }
 .modMasonryGallery .gallery-nav li.current {
   border: 1px solid #F9CE06;
@@ -2531,11 +2532,11 @@ body {
   opacity: 0;
 }
 .modMasonryGallery ul.gallery li a h3 {
-  color: #fff;
+  color: #f2e9e4;
   margin-bottom: 10px;
 }
 .modMasonryGallery ul.gallery li a p {
-  color: #fff;
+  color: #f2e9e4;
   font-size: 0.875rem;
 }
 .modMasonryGallery ul.gallery li a:hover {
