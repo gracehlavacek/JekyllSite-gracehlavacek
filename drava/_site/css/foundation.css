@@ -26,7 +26,7 @@ html, body { height: 100%; }
 
 html, body { font-size: 14px; }
 
-body { background: #fff; color: #999; padding: 0; margin: 0; font-family: Raleway, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: normal; font-style: normal; line-height: 160%; position: relative; cursor: auto; }
+body { background: #f2e9e4; color: #22223b; padding: 0; margin: 0; font-family: Raleway, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: normal; font-style: normal; line-height: 160%; position: relative; cursor: auto; }
 
 a:hover { cursor: pointer; }
 
