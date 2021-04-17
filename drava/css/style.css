@@ -573,7 +573,7 @@ form input.error, form textarea.error {
   -moz-border-radius: 20px;
   -webkit-border-radius: 20px;
   border-radius: 20px;
-  background: #eee;
+  background: #f2e9e4;
   color: #333;
   text-align: center;
   font-size: 1.25rem;

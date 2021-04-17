@@ -7,8 +7,8 @@
 - name: Portfolio
   path: portfolio.html
   section_id: portfolio
-  children:
-    - name: Portfolio
-      path: portfolio.html
-    - name: Portfolio item
-      path: portfolio-item.html
+  # children:
+  #   - name: Portfolio
+  #     path: portfolio.html
+  #   - name: Portfolio item
+  #     path: portfolio-item.html

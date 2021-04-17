@@ -6,9 +6,22 @@
 </description>
     <link>https://JekyllSite-gracehlavacek.icom101.repl.co/</link>
     <atom:link href="https://JekyllSite-gracehlavacek.icom101.repl.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Apr 2021 20:25:58 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Apr 2021 20:25:58 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Apr 2021 01:22:22 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Apr 2021 01:22:22 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Test Project</title>
+        <description>
+</description>
+        <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/brand/2021/04/16/test-project.html</link>
+        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/brand/2021/04/16/test-project.html</guid>
+        
+        
+        <category>brand</category>
+        
+      </item>
     
   </channel>
 </rss>
