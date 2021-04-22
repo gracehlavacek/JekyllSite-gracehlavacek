@@ -6,20 +6,20 @@
 </description>
     <link>https://JekyllSite-gracehlavacek.icom101.repl.co/</link>
     <atom:link href="https://JekyllSite-gracehlavacek.icom101.repl.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Apr 2021 01:54:40 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Apr 2021 01:54:40 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Apr 2021 02:33:57 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Apr 2021 02:33:57 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
-        <title>Test Project</title>
+        <title>MILK Photoshoop</title>
         <description>
 </description>
-        <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/brand/2021/04/16/test-project.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/brand/2021/04/16/test-project.html</guid>
+        <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/rendering%20,%20design/2021/04/05/mlk.html</link>
+        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/rendering%20,%20design/2021/04/05/mlk.html</guid>
         
         
-        <category>brand</category>
+        <category>rendering , design</category>
         
       </item>
     
@@ -37,6 +37,30 @@
       </item>
     
       <item>
+        <title>Bed</title>
+        <description>
+</description>
+        <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/2021/03/11/bed.html</link>
+        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/2021/03/11/bed.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cotton Candy Skyscraper</title>
+        <description>
+</description>
+        <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/modeling%20,%20design/2021/03/03/candy.html</link>
+        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/modeling%20,%20design/2021/03/03/candy.html</guid>
+        
+        
+        <category>modeling , design</category>
+        
+      </item>
+    
+      <item>
         <title>3D Monkey</title>
         <description>
 </description>
@@ -46,6 +70,32 @@
         
         
         <category>modeling</category>
+        
+      </item>
+    
+      <item>
+        <title>The Yellow Wallpaper</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/modeling%20,%20design/2020/11/23/yellow.html</link>
+        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/modeling%20,%20design/2020/11/23/yellow.html</guid>
+        
+        
+        <category>modeling , design</category>
+        
+      </item>
+    
+      <item>
+        <title>Lables</title>
+        <description>
+</description>
+        <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/modeling%20,%20design/2020/10/25/box.html</link>
+        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/modeling%20,%20design/2020/10/25/box.html</guid>
+        
+        
+        <category>modeling , design</category>
         
       </item>
     
