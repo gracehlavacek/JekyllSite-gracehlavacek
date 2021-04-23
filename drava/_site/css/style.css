@@ -1193,6 +1193,7 @@ body.screenshot {
 .modBoxedSlider .slide {
   position: relative;
 }
+
 .modBoxedSlider .caption {
   position: absolute;
   bottom: 30px;

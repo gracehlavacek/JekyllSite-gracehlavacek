@@ -20,6 +20,19 @@ section_id: portfolio
           {% for image in page.images %}
             <div class='slide'>
               <img alt="{{image.desc}}" src="{{image.url | absolute_url }}" />
+              <div class="slide-caption"><small>{{image.desc}}</small></div>
+            </div>
+          {% endfor %}
+          {% for video in page.videos %}
+            <div class='slide'>
+              <video src="{{video.url | absolute_url }}" controls></video>
+              <div class="slide-caption"><small>{{video.desc}}</small></div>
+            </div>
+          {% endfor %}
+          {% for iframe in page.iframes %}
+            <div class='slide'>
+              <iframe src="{{iframe.url}}" allowfullscreen></iframe>
+              <div class="slide-caption"><small>{{iframe.desc}}</small></div>
             </div>
           {% endfor %}
         </div>
