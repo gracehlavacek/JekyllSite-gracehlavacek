@@ -6,22 +6,9 @@
 </description>
     <link>https://JekyllSite-gracehlavacek.icom101.repl.co/</link>
     <atom:link href="https://JekyllSite-gracehlavacek.icom101.repl.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Apr 2021 02:49:54 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Apr 2021 02:49:54 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Apr 2021 04:19:49 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Apr 2021 04:19:49 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
-    
-      <item>
-        <title>Video post</title>
-        <description>
-</description>
-        <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/rendering%20,%20design/2021/04/23/video-post.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/rendering%20,%20design/2021/04/23/video-post.html</guid>
-        
-        
-        <category>rendering , design</category>
-        
-      </item>
     
       <item>
         <title>MILK Photoshoop</title>
@@ -46,6 +33,19 @@
         
         
         <category>photo , design</category>
+        
+      </item>
+    
+      <item>
+        <title>Rainbow Generative Walker</title>
+        <description>
+</description>
+        <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/web%20design/2021/03/21/video-post.html</link>
+        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/web%20design/2021/03/21/video-post.html</guid>
+        
+        
+        <category>web design</category>
         
       </item>
     
@@ -89,6 +89,32 @@
       </item>
     
       <item>
+        <title>Dance and Design</title>
+        <description>
+</description>
+        <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/design/2021/01/11/winter.html</link>
+        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/design/2021/01/11/winter.html</guid>
+        
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>Paradise Found</title>
+        <description>
+</description>
+        <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/design,%20photo/2020/12/04/light.html</link>
+        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/design,%20photo/2020/12/04/light.html</guid>
+        
+        
+        <category>design, photo</category>
+        
+      </item>
+    
+      <item>
         <title>The Yellow Wallpaper</title>
         <description>
 </description>
@@ -102,15 +128,15 @@
       </item>
     
       <item>
-        <title>Lables</title>
+        <title>Stop-Motion Animation</title>
         <description>
 </description>
-        <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/modeling%20,%20design/2020/10/25/box.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/modeling%20,%20design/2020/10/25/box.html</guid>
+        <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/design,%20photo/2020/11/02/animation.html</link>
+        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/design,%20photo/2020/11/02/animation.html</guid>
         
         
-        <category>modeling , design</category>
+        <category>design, photo</category>
         
       </item>
     

@@ -1,28 +1,13 @@
 ---
 layout: project
-title: Video post
-date: April 23, 2021
-desc: Lorem ipsum dolor sit amet
-category: rendering , design
+title: Rainbow Generative Walker
+date: March 21, 2021
+desc: A P5JS sketch as a generative walker 
+category: web design
 #cta:
   #title: Google Me!
   #url: https://www.google.com/search?q=grace
-thumb: https://via.placeholder.com/640x480
-images:
-  - image:
-    url: /images/portfolio/mlk1.jpg
-    desc: View 1
-  - image:
-    url: /images/portfolio/mlk2.jpg
-    desc: View 2
-  - image:
-    url: /images/portfolio/mlk3.jpg
-    desc: View 3
-videos:
-  - video:
-    url: /images/videos/animation.mp4
-    poster:
-    desc:
+thumb: /images/portfolio/rainbow.jpg
 iframes:
   - sketch:
     url: https://editor.p5js.org/gracehlavacek/embed/3GPAvIlOQ
