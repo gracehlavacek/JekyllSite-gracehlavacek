@@ -25,7 +25,7 @@ section_id: portfolio
           {% endfor %}
           {% for video in page.videos %}
             <div class='slide'>
-              <video src="{{video.url | absolute_url }}" controls></video>
+              <video src="{{video.url | absolute_url }}" controls autoplay></video>
               <div class="slide-caption"><small>{{video.desc}}</small></div>
             </div>
           {% endfor %}
