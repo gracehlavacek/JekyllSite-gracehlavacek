@@ -6,8 +6,8 @@
 </description>
     <link>https://JekyllSite-gracehlavacek.icom101.repl.co/</link>
     <atom:link href="https://JekyllSite-gracehlavacek.icom101.repl.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Apr 2021 03:01:47 +0000</pubDate>
-    <lastBuildDate>Thu, 29 Apr 2021 03:01:47 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Apr 2021 03:18:12 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Apr 2021 03:18:12 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -89,6 +89,32 @@
       </item>
     
       <item>
+        <title>Reverse Engineer of an Op Art Composition</title>
+        <description>
+</description>
+        <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/web-design/2021/02/27/opart.html</link>
+        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/web-design/2021/02/27/opart.html</guid>
+        
+        
+        <category>web-design</category>
+        
+      </item>
+    
+      <item>
+        <title>Reverse Engineer of a De Stilj Composition</title>
+        <description>
+</description>
+        <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/web-design/2021/02/15/destilj.html</link>
+        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/web-design/2021/02/15/destilj.html</guid>
+        
+        
+        <category>web-design</category>
+        
+      </item>
+    
+      <item>
         <title>3D Monkey</title>
         <description>
 </description>
@@ -111,32 +137,6 @@
         
         
         <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>Paradise Found</title>
-        <description>
-</description>
-        <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/design,%20photo/2020/12/04/light.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/design,%20photo/2020/12/04/light.html</guid>
-        
-        
-        <category>design, photo</category>
-        
-      </item>
-    
-      <item>
-        <title>The Yellow Wallpaper</title>
-        <description>
-</description>
-        <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/modeling%20,%20design/2020/11/23/yellow.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/modeling%20,%20design/2020/11/23/yellow.html</guid>
-        
-        
-        <category>modeling , design</category>
         
       </item>
     
