@@ -1,0 +1,21 @@
+I"¦<hr />
+<p>layout: project
+title: Soviet Bus Stop
+date: April 15, 2021
+desc: A sketchip rendering of a soviet bus stop.
+category: rendering
+#cta:
+  #title: Google Me!
+  #url: https://www.google.com/search?q=grace
+thumb: /images/portfolio/monkey1.jpg
+images:</p>
+<ul>
+  <li>image:
+url: /images/portfolio/monkey1.jpg
+desc: Hanging Monkey</li>
+  <li>image:
+url: /images/portfolio/monkey2.jpg
+desc: Hanging Monkey
+-</li>
+</ul>
+:ET

@@ -1,6 +1,8 @@
 .modBoxedSlider .slide video, .modBoxedSlider .slide iframe {
   width: 100%;
+  height: 100%;
 }
+
 
 .slide-caption small {
   font-size: 1rem;

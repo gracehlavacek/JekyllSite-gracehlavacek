@@ -1,4 +1,4 @@
-@charset "UTF-8";
+.@charset "UTF-8";
 
 @font-face {
   font-family: "Steelfish";
@@ -185,13 +185,13 @@ ul.shortcode-list i {
 .button {
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #fff;
-  background: #F9CE06;
-  border: 2px solid #F9CE06;
+  color: #22223b;
+  background: #c9ada7;
+  border: 1px solid #c9ada7;
 }
 
 .button:hover {
-  background-color: rgba(249, 206, 6, 0.8);
+  background-color: #c9ada7;
 }
 
 .button.boxed {
@@ -1242,7 +1242,7 @@ body.screenshot {
 
 /* Slider */
 .slick-slider {
-  position: relative;
+  position: center;
   display: block;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1258,7 +1258,7 @@ body.screenshot {
 }
 
 .slick-list {
-  position: relative;
+  position: center;
   overflow: hidden;
   display: block;
   margin: 0;
@@ -1284,7 +1284,7 @@ body.screenshot {
 }
 
 .slick-track {
-  position: relative;
+  position: center;
   left: 0;
   top: 0;
   display: block;
@@ -1301,7 +1301,7 @@ body.screenshot {
 }
 
 .slick-slide {
-  float: left;
+  float: center;
   height: 100%;
   min-height: 1px;
   display: none;
@@ -2178,10 +2178,10 @@ body.screenshot {
 }
 .modFullscreenSlider .fullscreen_slideshow .frame.static .bg, .modFullscreenSlider .fullscreen_slideshow .frame.static .video_wrap, .modFullscreenSlider .fullscreen_slideshow .frame.static .overlay {
   left: 0;
-  -moz-transition-duration: 1s;
-  -o-transition-duration: 1s;
-  -webkit-transition-duration: 1s;
-  transition-duration: 1s;
+  -moz-transition-duration: 5s;
+  -o-transition-duration: 5s;
+  -webkit-transition-duration: 5s;
+  transition-duration: 5s;
 }
 .modFullscreenSlider .fullscreen_slideshow h1 {
   color: #fff;
@@ -2479,13 +2479,13 @@ body {
   margin-bottom: 0.5rem;
 }
 .modMasonryGallery .gallery-nav li a {
-  color: #999;
+  color: #22223b;
 }
 .modMasonryGallery .gallery-nav li.current {
-  border: 1px solid #F9CE06;
+  border: 1px solid #22223b;
 }
 .modMasonryGallery .gallery-nav li.current a {
-  color: #F9CE06;
+  color: #22223b;
 }
 .modMasonryGallery ul.gallery {
   margin: 0;
@@ -3176,7 +3176,7 @@ body {
   padding-top: 30px;
 }
 .modTestimonials.simple .author .author-name strong {
-  color: #333;
+  color: #22223b;
 }
 .modTestimonials.simple .slick-slider {
   margin-bottom: 10px;
@@ -3239,7 +3239,7 @@ body {
   }
 
   .contain-to-grid.alt .top-bar-section ul li > a {
-    color: #999;
+    color: #22223b;
   }
   .contain-to-grid.alt .top-bar-section .has-dropdown > a:after {
     border-top-color: transparent;
@@ -3247,20 +3247,20 @@ body {
 
   .contain-to-grid.shadowless .top-bar-section li:not(.has-form) a:not(.button):hover, .contain-to-grid.shadowless .top-bar-section li.active:not(.has-form) a:not(.button) {
     background: #f9f9f9;
-    color: #888;
+    color: #22223b;
   }
   .contain-to-grid.shadowless .top-bar-section li.active:not(.has-form) a:not(.button):hover {
     background: #f2f2f2;
   }
   .contain-to-grid.shadowless .top-bar-section ul li.has-dropdown .dropdown li a {
-    color: #999;
+    color: #22223b;
   }
   .contain-to-grid.shadowless .top-bar-section ul li.has-dropdown .dropdown li {
     background: #fff;
   }
   .contain-to-grid.shadowless .top-bar-section .dropdown li:not(.has-form) a:not(.button):hover {
     background: #f9f9f9;
-    color: #888;
+    color: #22223b;
   }
 
   .contain-to-grid.transparent {

@@ -21,8 +21,10 @@ $button-margin-bottom: rem-calc(20) !default;
 
 // We use these to control button text styles.
 $button-font-family: $body-font-family !default;
-$button-font-color: $white !default;
-$button-font-color-alt: $oil !default;
+$button-font-color:
+#22223b;
+$button-font-color-alt: 
+#22223b;
 $button-font-tny: rem-calc(11) !default;
 $button-font-sml: rem-calc(13) !default;
 $button-font-med: rem-calc(16) !default;
@@ -36,7 +38,7 @@ $button-function-factor: -20% !default;
 // We use these to control button border styles.
 $button-border-width: 0 !default;
 $button-border-style: solid !default;
-$button-bg-color: $primary-color !default;
+$button-bg-color: #c9ada7;
 $button-bg-hover: scale-color($button-bg-color, $lightness: $button-function-factor) !default;
 $button-border-color: $button-bg-hover !default;
 $secondary-button-bg-hover: scale-color($secondary-color, $lightness: $button-function-factor) !default;
