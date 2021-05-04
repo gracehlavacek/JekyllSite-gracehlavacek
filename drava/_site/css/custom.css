@@ -8,13 +8,13 @@
   font-size: 1rem;
   text-align: center;
 }
-.modMasonryGallery ul.gallery li a {
-  filter: url{{work.image}}; 
-  filter: grayscale(100%) !important; 
-  -webkit-filter: grayscale(100%) !important;
+.modMasonryGallery ul.gallery li a img {
+  /* filter: url{{work.image}};  */
+  filter: grayscale(100%); 
+  -webkit-filter: grayscale(100%);
 }
-.modMasonryGallery ul.gallery li a .overlay{
- filter: url{{work.image}};
-  filter: grayscale(0%) !important;
-  -webkit-filter: grayscale(0%) !important;
+.modMasonryGallery ul.gallery li a:hover img {
+  /* filter: url{{work.image}}; */
+  filter: grayscale(0%);
+  -webkit-filter: grayscale(0%);
 }
