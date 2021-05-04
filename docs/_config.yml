@@ -3,7 +3,7 @@ title: Grace Hlavacek
 email: gracehlavacek@alum.calarts.edu
 description: Grace Hlavacek's Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog/
- url: "https://gracehlavacek.github.io/" # the base hostname & protocol for your site
+url: "https://gracehlavacek.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
