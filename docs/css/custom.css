@@ -3,7 +3,11 @@
       font-size: 3.5rem;
   }
 }
-
+@media only screen and (max-width: 60em)
+.contain-to-grid .title-area img, .contain-to-grid .title-area li img, .contain-to-grid .title-area a img{
+  width: 100px;
+  height: 100px;
+}
 .headshot {
     width: 216px;
     height: 216px;
