@@ -1,5 +1,5 @@
----
-layout: project
+I"Ö<hr />
+<p>layout: project
 title: Rainbow Generative Walker
 date: March 21, 2021
 desc: A P5JS (javascript) sketch as a generative walker. A generative walker is a code based art that allows users to click on screen once and then have code randomly draw on screen based on what is coded by the designer.
@@ -8,8 +8,5 @@ cta:
   title: Click to Draw Your Own!!
   url: https://editor.p5js.org/gracehlavacek/full/3GPAvIlOQ
 thumb: /images/portfolio/rainbow.jpg
-images:
-  - image:
-    url: /images/portfolio/rainbow.jpg
-    desc: Rainbow Generative Drawing
----
+images</p>
+:ET
