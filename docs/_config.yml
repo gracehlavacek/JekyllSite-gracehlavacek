@@ -1,18 +1,12 @@
 # Site settings
 title: Grace Hlavacek
 email: gracehlavacek@alum.calarts.edu
-description: > # this means to ignore newlines until "baseurl:"
-  Grace Hlavacek's Portfolio
-url: 'https://JekyllSite-gracehlavacek.icom101.repl.co'
+description: Grace Hlavacek's Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+ url: "https://gracehlavacek.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-#destination: ../docs/
-
 
 paginate: 4
 paginate_path: "blog/page:num"
