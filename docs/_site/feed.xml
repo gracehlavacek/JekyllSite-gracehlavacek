@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grace Hlavacek</title>
-    <description>Grace Hlavacek's Portfolio
-</description>
-    <link>https://JekyllSite-gracehlavacek.icom101.repl.co/</link>
-    <atom:link href="https://JekyllSite-gracehlavacek.icom101.repl.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 May 2021 21:00:07 +0000</pubDate>
-    <lastBuildDate>Tue, 04 May 2021 21:00:07 +0000</lastBuildDate>
+    <description>Grace Hlavacek's Portfolio</description>
+    <link>https://gracehlavacek.github.io/</link>
+    <atom:link href="https://gracehlavacek.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 05 May 2021 23:23:21 +0000</pubDate>
+    <lastBuildDate>Wed, 05 May 2021 23:23:21 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -15,8 +14,8 @@
         <description>
 </description>
         <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/model/2021/05/04/mod.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/model/2021/05/04/mod.html</guid>
+        <link>https://gracehlavacek.github.io/model/2021/05/04/mod.html</link>
+        <guid isPermaLink="true">https://gracehlavacek.github.io/model/2021/05/04/mod.html</guid>
         
         
         <category>model</category>
@@ -28,8 +27,8 @@
         <description>
 </description>
         <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/rendering/2021/04/15/bus.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/rendering/2021/04/15/bus.html</guid>
+        <link>https://gracehlavacek.github.io/rendering/2021/04/15/bus.html</link>
+        <guid isPermaLink="true">https://gracehlavacek.github.io/rendering/2021/04/15/bus.html</guid>
         
         
         <category>rendering</category>
@@ -41,8 +40,8 @@
         <description>
 </description>
         <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/rendering%20,%20design/2021/04/05/mlk.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/rendering%20,%20design/2021/04/05/mlk.html</guid>
+        <link>https://gracehlavacek.github.io/rendering%20,%20design/2021/04/05/mlk.html</link>
+        <guid isPermaLink="true">https://gracehlavacek.github.io/rendering%20,%20design/2021/04/05/mlk.html</guid>
         
         
         <category>rendering , design</category>
@@ -54,8 +53,8 @@
         <description>
 </description>
         <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/photo%20,%20design/2021/04/04/gender.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/photo%20,%20design/2021/04/04/gender.html</guid>
+        <link>https://gracehlavacek.github.io/photo%20,%20design/2021/04/04/gender.html</link>
+        <guid isPermaLink="true">https://gracehlavacek.github.io/photo%20,%20design/2021/04/04/gender.html</guid>
         
         
         <category>photo , design</category>
@@ -67,8 +66,8 @@
         <description>
 </description>
         <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/web-design/2021/03/21/draw.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/web-design/2021/03/21/draw.html</guid>
+        <link>https://gracehlavacek.github.io/web-design/2021/03/21/draw.html</link>
+        <guid isPermaLink="true">https://gracehlavacek.github.io/web-design/2021/03/21/draw.html</guid>
         
         
         <category>web-design</category>
@@ -80,8 +79,8 @@
         <description>
 </description>
         <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/rendering/2021/03/11/bed.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/rendering/2021/03/11/bed.html</guid>
+        <link>https://gracehlavacek.github.io/rendering/2021/03/11/bed.html</link>
+        <guid isPermaLink="true">https://gracehlavacek.github.io/rendering/2021/03/11/bed.html</guid>
         
         
         <category>rendering</category>
@@ -93,8 +92,8 @@
         <description>
 </description>
         <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/modeling%20,%20design/2021/03/03/candy.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/modeling%20,%20design/2021/03/03/candy.html</guid>
+        <link>https://gracehlavacek.github.io/modeling%20,%20design/2021/03/03/candy.html</link>
+        <guid isPermaLink="true">https://gracehlavacek.github.io/modeling%20,%20design/2021/03/03/candy.html</guid>
         
         
         <category>modeling , design</category>
@@ -106,8 +105,8 @@
         <description>
 </description>
         <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/web-design/2021/02/27/opart.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/web-design/2021/02/27/opart.html</guid>
+        <link>https://gracehlavacek.github.io/web-design/2021/02/27/opart.html</link>
+        <guid isPermaLink="true">https://gracehlavacek.github.io/web-design/2021/02/27/opart.html</guid>
         
         
         <category>web-design</category>
@@ -119,8 +118,8 @@
         <description>
 </description>
         <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/web-design/2021/02/15/destilj.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/web-design/2021/02/15/destilj.html</guid>
+        <link>https://gracehlavacek.github.io/web-design/2021/02/15/destilj.html</link>
+        <guid isPermaLink="true">https://gracehlavacek.github.io/web-design/2021/02/15/destilj.html</guid>
         
         
         <category>web-design</category>
@@ -132,8 +131,8 @@
         <description>
 </description>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://JekyllSite-gracehlavacek.icom101.repl.co/modeling/2021/02/07/monkey.html</link>
-        <guid isPermaLink="true">https://JekyllSite-gracehlavacek.icom101.repl.co/modeling/2021/02/07/monkey.html</guid>
+        <link>https://gracehlavacek.github.io/modeling/2021/02/07/monkey.html</link>
+        <guid isPermaLink="true">https://gracehlavacek.github.io/modeling/2021/02/07/monkey.html</guid>
         
         
         <category>modeling</category>
