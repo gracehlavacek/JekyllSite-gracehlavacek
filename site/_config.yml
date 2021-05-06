@@ -1,0 +1,18 @@
+# Site settings
+title: Grace Hlavacek
+email: gracehlavacek@alum.calarts.edu
+description: Grace Hlavacek's Portfolio
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://gracehlavacek.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+paginate: 4
+paginate_path: "blog/page:num"
+
+plugins:
+  - jekyll-paginate
+
+
+destination: ../docs
