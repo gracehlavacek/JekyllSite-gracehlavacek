@@ -2,7 +2,7 @@
 layout: project
 title: Stop-Motion Animation
 date: November 2, 2020
-desc: A group stop motion piece about an artist finding thier love of art and how art changes the world. Made by Pablo de Larranaga Aramoni, Sally Cho, Steven Cobilich, and Grace Hlavacek.
+desc: A group stop-motion piece about an artist finding thier love of art and how art changes the world. Made by Pablo de Larranaga Aramoni, Sally Cho, Steven Cobilich, and Grace Hlavacek.
 category: design, photo
 #cta:
   #title: Click for More! 
